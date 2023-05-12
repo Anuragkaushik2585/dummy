@@ -1,0 +1,21 @@
+div{background-color: #F6F1F1;
+max-width: 100%;}
+.login-button {
+    display: block;
+    margin: 0 auto;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    padding-top: 10px;
+    margin-top: 10px;
+    width: 100%;
+  }
+  
+  .login-button:hover {
+    background-color: #0062cc;
+  }
+  

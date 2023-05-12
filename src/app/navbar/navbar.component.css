@@ -1,0 +1,35 @@
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-nav li {
+  margin-right: 10px;
+}
+
+.navbar-nav {
+  background-color: #E4DCCF;
+  
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-nav li {
+  margin-right: 10px;
+}
+
+.navbar-nav li a {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.navbar-nav li a:hover {
+  color:#13293D;
+  background-color: #8e5e5e;
+}
+.nav-item{padding-left: 10px;
+padding-right: 10px;}
+ 
